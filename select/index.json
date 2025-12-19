@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "モブガール",
+  "base_artist": "Susumu",
+  "createdAt": "2025-12-19T11:24:39.334442Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モブガール",
+      "artist": "susumu.",
+      "has_synced": false,
+      "path": "select/pl_01_モブガール_susumu..txt"
+    }
+  ]
+}
